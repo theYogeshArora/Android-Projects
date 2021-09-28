@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Rock_Paper_Scissors</string>
+    <string name="rock">Rock</string>
+    <string name="paper">Paper</string>
+    <string name="scissors">Scissors</string>
+    <string name="how_was_the_service">Choose one option</string>
+    <string name="play">Play</string>
+    <string name="result">Result</string>
+</resources>
